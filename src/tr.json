@@ -1,0 +1,1698 @@
+{
+  "kimono": {
+    "name": "kimono",
+    "tr": "着物"
+  },
+  "truck": {
+    "name": "truck",
+    "tr": "トラック"
+  },
+  "plunger": {
+    "name": "plunger",
+    "tr": "プランジャー"
+  },
+  "desk": {
+    "name": "desk",
+    "tr": "机"
+  },
+  "school bus": {
+    "name": "school bus",
+    "tr": "スクールバス"
+  },
+  "toaster": {
+    "name": "toaster",
+    "tr": "トースター"
+  },
+  "shovel": {
+    "name": "shovel",
+    "tr": "シャベル"
+  },
+  "football helmet": {
+    "name": "football helmet",
+    "tr": "フットボールヘルメット"
+  },
+  "building": {
+    "name": "building",
+    "tr": "建物"
+  },
+  "fire engine": {
+    "name": "fire engine",
+    "tr": "消防車"
+  },
+  "cowboy boot": {
+    "name": "cowboy boot",
+    "tr": "カウボーイブーツ"
+  },
+  "sleeping bag": {
+    "name": "sleeping bag",
+    "tr": "寝袋"
+  },
+  "airship": {
+    "name": "airship",
+    "tr": "飛行船"
+  },
+  "spoon": {
+    "name": "spoon",
+    "tr": "スプーン"
+  },
+  "plane": {
+    "name": "plane",
+    "tr": "飛行機"
+  },
+  "sliding door": {
+    "name": "sliding door",
+    "tr": "引き戸"
+  },
+  "china cabinet": {
+    "name": "china cabinet",
+    "tr": "中国キャビネット"
+  },
+  "vault": {
+    "name": "vault",
+    "tr": "ボールト"
+  },
+  "bullet train": {
+    "name": "bullet train",
+    "tr": "新幹線"
+  },
+  "microwave": {
+    "name": "microwave",
+    "tr": "電子レンジ"
+  },
+  "theater curtain": {
+    "name": "theater curtain",
+    "tr": "劇場のカーテン"
+  },
+  "barn": {
+    "name": "barn",
+    "tr": "子供"
+  },
+  "oscilloscope": {
+    "name": "oscilloscope",
+    "tr": "オシロスコープ"
+  },
+  "pedestal": {
+    "name": "pedestal",
+    "tr": "ペデスタル"
+  },
+  "lampshade": {
+    "name": "lampshade",
+    "tr": "ランプシェード"
+  },
+  "gondola": {
+    "name": "gondola",
+    "tr": "ゴンドラ"
+  },
+  "valley": {
+    "name": "valley",
+    "tr": "谷"
+  },
+  "zucchini": {
+    "name": "zucchini",
+    "tr": "ズッキーニ"
+  },
+  "knot": {
+    "name": "knot",
+    "tr": "結び目"
+  },
+  "hot pot": {
+    "name": "hot pot",
+    "tr": "ホットポット"
+  },
+  "clock": {
+    "name": "clock",
+    "tr": "クロック"
+  },
+  "envelope": {
+    "name": "envelope",
+    "tr": "エンベロープ"
+  },
+  "tray": {
+    "name": "tray",
+    "tr": "トレイ"
+  },
+  "bassinet": {
+    "name": "bassinet",
+    "tr": "バシネット"
+  },
+  "cannon": {
+    "name": "cannon",
+    "tr": "大砲"
+  },
+  "menu": {
+    "name": "menu",
+    "tr": "メニュー"
+  },
+  "mouse": {
+    "name": "mouse",
+    "tr": "マウス"
+  },
+  "stove": {
+    "name": "stove",
+    "tr": "レンジ"
+  },
+  "barbell": {
+    "name": "barbell",
+    "tr": "バーベル"
+  },
+  "bath towel": {
+    "name": "bath towel",
+    "tr": "バスタオル"
+  },
+  "handkerchief": {
+    "name": "handkerchief",
+    "tr": "ハンカチ"
+  },
+  "pool table": {
+    "name": "pool table",
+    "tr": "ビリヤード台"
+  },
+  "motor scooter": {
+    "name": "motor scooter",
+    "tr": "スクーター"
+  },
+  "goblet": {
+    "name": "goblet",
+    "tr": "ゴブレット"
+  },
+  "stone wall": {
+    "name": "stone wall",
+    "tr": "石垣"
+  },
+  "microphone": {
+    "name": "microphone",
+    "tr": "マイクロフォン"
+  },
+  "washer": {
+    "name": "washer",
+    "tr": "ウォッシャー"
+  },
+  "hand": {
+    "name": "hand",
+    "tr": "手"
+  },
+  "gown": {
+    "name": "gown",
+    "tr": "ガウン"
+  },
+  "tennis ball": {
+    "name": "tennis ball",
+    "tr": "テニスボール"
+  },
+  "wig": {
+    "name": "wig",
+    "tr": "かつら"
+  },
+  "bathtub": {
+    "name": "bathtub",
+    "tr": "バスタブ"
+  },
+  "totem pole": {
+    "name": "totem pole",
+    "tr": "トーテムポール"
+  },
+  "shower curtain": {
+    "name": "shower curtain",
+    "tr": "シャワーカーテン"
+  },
+  "broom": {
+    "name": "broom",
+    "tr": "帚"
+  },
+  "measuring cup": {
+    "name": "measuring cup",
+    "tr": "計量カップ"
+  },
+  "mountain tent": {
+    "name": "mountain tent",
+    "tr": "山のテント"
+  },
+  "table lamp": {
+    "name": "table lamp",
+    "tr": "電気スタンド"
+  },
+  "barrow": {
+    "name": "barrow",
+    "tr": "手押し車"
+  },
+  "golf ball": {
+    "name": "golf ball",
+    "tr": "ゴルフボール"
+  },
+  "broccoli": {
+    "name": "broccoli",
+    "tr": "ブロッコリ"
+  },
+  "bed": {
+    "name": "bed",
+    "tr": "ベッド"
+  },
+  "electric fan": {
+    "name": "electric fan",
+    "tr": "扇風機"
+  },
+  "flute": {
+    "name": "flute",
+    "tr": "フルート"
+  },
+  "tobacco shop": {
+    "name": "tobacco shop",
+    "tr": "タバコ店"
+  },
+  "crock pot": {
+    "name": "crock pot",
+    "tr": "壷の鍋"
+  },
+  "harmonica": {
+    "name": "harmonica",
+    "tr": "ハーモニカ"
+  },
+  "shoe shop": {
+    "name": "shoe shop",
+    "tr": "靴屋"
+  },
+  "water jug": {
+    "name": "water jug",
+    "tr": "水差し"
+  },
+  "ping pong ball": {
+    "name": "ping pong ball",
+    "tr": "ピンポン球"
+  },
+  "lipstick": {
+    "name": "lipstick",
+    "tr": "口紅"
+  },
+  "dining table": {
+    "name": "dining table",
+    "tr": "ダイニングテーブル"
+  },
+  "banjo": {
+    "name": "banjo",
+    "tr": "バンジョー"
+  },
+  "confectionery": {
+    "name": "confectionery",
+    "tr": "製菓"
+  },
+  "watch": {
+    "name": "watch",
+    "tr": "時計"
+  },
+  "crossword puzzle": {
+    "name": "crossword puzzle",
+    "tr": "クロスワードパズル"
+  },
+  "modem": {
+    "name": "modem",
+    "tr": "モデム"
+  },
+  "saltshaker": {
+    "name": "saltshaker",
+    "tr": "saltshaker"
+  },
+  "tile roof": {
+    "name": "tile roof",
+    "tr": "瓦屋根"
+  },
+  "refrigerator": {
+    "name": "refrigerator",
+    "tr": "冷蔵庫"
+  },
+  "mailbox": {
+    "name": "mailbox",
+    "tr": "ポスト"
+  },
+  "pole": {
+    "name": "pole",
+    "tr": "ポール"
+  },
+  "cello": {
+    "name": "cello",
+    "tr": "チェロ"
+  },
+  "flagpole": {
+    "name": "flagpole",
+    "tr": "旗ざお"
+  },
+  "water tower": {
+    "name": "water tower",
+    "tr": "給水塔"
+  },
+  "barber chair": {
+    "name": "barber chair",
+    "tr": "理髪店の椅子"
+  },
+  "yawl": {
+    "name": "yawl",
+    "tr": "ヨール"
+  },
+  "soap dispenser": {
+    "name": "soap dispenser",
+    "tr": "ソープディスペンサー"
+  },
+  "stretcher": {
+    "name": "stretcher",
+    "tr": "担架"
+  },
+  "steel drum": {
+    "name": "steel drum",
+    "tr": "スチールドラム"
+  },
+  "bottlecap": {
+    "name": "bottlecap",
+    "tr": "瓶のキャップ"
+  },
+  "bathing cap": {
+    "name": "bathing cap",
+    "tr": "海水帽"
+  },
+  "comic book": {
+    "name": "comic book",
+    "tr": "コミックブック"
+  },
+  "go kart": {
+    "name": "go kart",
+    "tr": "ゴーカート"
+  },
+  "dam": {
+    "name": "dam",
+    "tr": "ダム"
+  },
+  "parallel bars": {
+    "name": "parallel bars",
+    "tr": "平行棒"
+  },
+  "hand blower": {
+    "name": "hand blower",
+    "tr": "ハンドブロワー"
+  },
+  "scoreboard": {
+    "name": "scoreboard",
+    "tr": "スコアボード"
+  },
+  "space shuttle": {
+    "name": "space shuttle",
+    "tr": "スペースシャトル"
+  },
+  "lakeside": {
+    "name": "lakeside",
+    "tr": "湖畔"
+  },
+  "ocarina": {
+    "name": "ocarina",
+    "tr": "オカリナ"
+  },
+  "crutch": {
+    "name": "crutch",
+    "tr": "松葉杖"
+  },
+  "cardigan": {
+    "name": "cardigan",
+    "tr": "カーディガン"
+  },
+  "milk can": {
+    "name": "milk can",
+    "tr": "ミルク缶"
+  },
+  "pencil box": {
+    "name": "pencil box",
+    "tr": "筆箱"
+  },
+  "home theater": {
+    "name": "home theater",
+    "tr": "ホームシアター"
+  },
+  "feather boa": {
+    "name": "feather boa",
+    "tr": "羽ボア"
+  },
+  "solar dish": {
+    "name": "solar dish",
+    "tr": "太陽の皿"
+  },
+  "dial telephone": {
+    "name": "dial telephone",
+    "tr": "黒電話"
+  },
+  "lighter": {
+    "name": "lighter",
+    "tr": "ライター"
+  },
+  "light bulb": {
+    "name": "light bulb",
+    "tr": "電球"
+  },
+  "sewing machine": {
+    "name": "sewing machine",
+    "tr": "ミシン"
+  },
+  "tv": {
+    "name": "tv",
+    "tr": "テレビ"
+  },
+  "toilet tissue": {
+    "name": "toilet tissue",
+    "tr": "トイレットペーパー"
+  },
+  "combination lock": {
+    "name": "combination lock",
+    "tr": "南京錠"
+  },
+  "cloak": {
+    "name": "cloak",
+    "tr": "クローク"
+  },
+  "bowl": {
+    "name": "bowl",
+    "tr": "ボウル"
+  },
+  "croquet ball": {
+    "name": "croquet ball",
+    "tr": "クロケットボール"
+  },
+  "container ship": {
+    "name": "container ship",
+    "tr": "コンテナ船"
+  },
+  "dogsled": {
+    "name": "dogsled",
+    "tr": "犬ぞり"
+  },
+  "lock": {
+    "name": "lock",
+    "tr": "ロック"
+  },
+  "potters wheel": {
+    "name": "potters wheel",
+    "tr": "轆轤"
+  },
+  "plug": {
+    "name": "plug",
+    "tr": "プラグ"
+  },
+  "horizontal bar": {
+    "name": "horizontal bar",
+    "tr": "水平バー"
+  },
+  "castle": {
+    "name": "castle",
+    "tr": "城"
+  },
+  "rocking chair": {
+    "name": "rocking chair",
+    "tr": "ロッキングチェア"
+  },
+  "balloon": {
+    "name": "balloon",
+    "tr": "バルーン"
+  },
+  "ramen": {
+    "name": "ramen",
+    "tr": "推計"
+  },
+  "crayfish": {
+    "name": "crayfish",
+    "tr": "ザリガニ"
+  },
+  "mixing bowl": {
+    "name": "mixing bowl",
+    "tr": "ミキシングボウル"
+  },
+  "oboe": {
+    "name": "oboe",
+    "tr": "オーボエ"
+  },
+  "nail": {
+    "name": "nail",
+    "tr": "爪"
+  },
+  "hamburger": {
+    "name": "hamburger",
+    "tr": "ハンバーガー"
+  },
+  "patio": {
+    "name": "patio",
+    "tr": "パティオ"
+  },
+  "spindle": {
+    "name": "spindle",
+    "tr": "スピンドル"
+  },
+  "cucumber": {
+    "name": "cucumber",
+    "tr": "きゅうり"
+  },
+  "window shade": {
+    "name": "window shade",
+    "tr": "ウィンドウシェード"
+  },
+  "street sign": {
+    "name": "street sign",
+    "tr": "道路標識"
+  },
+  "carousel": {
+    "name": "carousel",
+    "tr": "メリーゴーラウンド"
+  },
+  "rain barrel": {
+    "name": "rain barrel",
+    "tr": "天水桶"
+  },
+  "barrel": {
+    "name": "barrel",
+    "tr": "バレル"
+  },
+  "carton": {
+    "name": "carton",
+    "tr": "カートン"
+  },
+  "baby bottle": {
+    "name": "baby bottle",
+    "tr": "哺乳瓶"
+  },
+  "screw": {
+    "name": "screw",
+    "tr": "スクリュー"
+  },
+  "lion": {
+    "name": "lion",
+    "tr": "ライオン"
+  },
+  "crate": {
+    "name": "crate",
+    "tr": "クレート"
+  },
+  "volleyball": {
+    "name": "volleyball",
+    "tr": "バレーボール"
+  },
+  "flower": {
+    "name": "flower",
+    "tr": "花"
+  },
+  "shirt": {
+    "name": "shirt",
+    "tr": "シャツ"
+  },
+  "koala": {
+    "name": "koala",
+    "tr": "コアラ"
+  },
+  "necklace": {
+    "name": "necklace",
+    "tr": "ネックレス"
+  },
+  "book": {
+    "name": "book",
+    "tr": "本"
+  },
+  "sunglasses": {
+    "name": "sunglasses",
+    "tr": "サングラス"
+  },
+  "hair spray": {
+    "name": "hair spray",
+    "tr": "ヘアスプレー"
+  },
+  "bicycle": {
+    "name": "bicycle",
+    "tr": "自転車"
+  },
+  "buckle": {
+    "name": "buckle",
+    "tr": "バックル"
+  },
+  "shopping basket": {
+    "name": "shopping basket",
+    "tr": "買い物カゴ"
+  },
+  "dog": {
+    "name": "dog",
+    "tr": "犬"
+  },
+  "cellphone": {
+    "name": "cellphone",
+    "tr": "携帯電話"
+  },
+  "rubber eraser": {
+    "name": "rubber eraser",
+    "tr": "消しゴム"
+  },
+  "golfcart": {
+    "name": "golfcart",
+    "tr": "ゴルフカート"
+  },
+  "christmas stocking": {
+    "name": "christmas stocking",
+    "tr": "クリスマスの靴下"
+  },
+  "hourglass": {
+    "name": "hourglass",
+    "tr": "砂時計"
+  },
+  "hammer": {
+    "name": "hammer",
+    "tr": "ハンマー"
+  },
+  "pop bottle": {
+    "name": "pop bottle",
+    "tr": "ポップボトル"
+  },
+  "candle": {
+    "name": "candle",
+    "tr": "キャンドル"
+  },
+  "spotlight": {
+    "name": "spotlight",
+    "tr": "スポットライト"
+  },
+  "pickup": {
+    "name": "pickup",
+    "tr": "小型トラック"
+  },
+  "pill bottle": {
+    "name": "pill bottle",
+    "tr": "錠剤瓶"
+  },
+  "can opener": {
+    "name": "can opener",
+    "tr": "缶切り"
+  },
+  "freight car": {
+    "name": "freight car",
+    "tr": "貨車"
+  },
+  "wardrobe": {
+    "name": "wardrobe",
+    "tr": "ワードローブ"
+  },
+  "maraca": {
+    "name": "maraca",
+    "tr": "マラカス"
+  },
+  "matchstick": {
+    "name": "matchstick",
+    "tr": "マッチ棒"
+  },
+  "ant": {
+    "name": "ant",
+    "tr": "アリ"
+  },
+  "park bench": {
+    "name": "park bench",
+    "tr": "公園のベンチ"
+  },
+  "teapot": {
+    "name": "teapot",
+    "tr": "ティーポット"
+  },
+  "camera": {
+    "name": "camera",
+    "tr": "カメラ"
+  },
+  "reel": {
+    "name": "reel",
+    "tr": "リール"
+  },
+  "space heater": {
+    "name": "space heater",
+    "tr": "スペースヒーター"
+  },
+  "bow": {
+    "name": "bow",
+    "tr": "弓"
+  },
+  "racket": {
+    "name": "racket",
+    "tr": "ラケット"
+  },
+  "perfume": {
+    "name": "perfume",
+    "tr": "香水"
+  },
+  "scale": {
+    "name": "scale",
+    "tr": "規模"
+  },
+  "hotdog": {
+    "name": "hotdog",
+    "tr": "ホットドッグ"
+  },
+  "basketball": {
+    "name": "basketball",
+    "tr": "バスケットボール"
+  },
+  "sea urchin": {
+    "name": "sea urchin",
+    "tr": "うに"
+  },
+  "umbrella": {
+    "name": "umbrella",
+    "tr": "傘"
+  },
+  "coral reef": {
+    "name": "coral reef",
+    "tr": "珊瑚礁"
+  },
+  "tripod": {
+    "name": "tripod",
+    "tr": "三脚"
+  },
+  "strawberry": {
+    "name": "strawberry",
+    "tr": "イチゴ"
+  },
+  "sushi": {
+    "name": "sushi",
+    "tr": "寿司"
+  },
+  "chime": {
+    "name": "chime",
+    "tr": "チャイム"
+  },
+  "bus": {
+    "name": "bus",
+    "tr": "バス"
+  },
+  "snowplow": {
+    "name": "snowplow",
+    "tr": "除雪車"
+  },
+  "icecream": {
+    "name": "icecream",
+    "tr": "アイスクリーム"
+  },
+  "soccer ball": {
+    "name": "soccer ball",
+    "tr": "サッカーボール"
+  },
+  "canoe": {
+    "name": "canoe",
+    "tr": "カヌー"
+  },
+  "velvet": {
+    "name": "velvet",
+    "tr": "ベルベット"
+  },
+  "police van": {
+    "name": "police van",
+    "tr": "パトカー"
+  },
+  "vending machine": {
+    "name": "vending machine",
+    "tr": "自動販売機"
+  },
+  "fireboat": {
+    "name": "fireboat",
+    "tr": "消防艇"
+  },
+  "mailbag": {
+    "name": "mailbag",
+    "tr": "郵袋"
+  },
+  "electric locomotive": {
+    "name": "electric locomotive",
+    "tr": "電気機関車"
+  },
+  "seashore": {
+    "name": "seashore",
+    "tr": "海辺"
+  },
+  "glove": {
+    "name": "glove",
+    "tr": "グローブ"
+  },
+  "cup": {
+    "name": "cup",
+    "tr": "カップ"
+  },
+  "plate rack": {
+    "name": "plate rack",
+    "tr": "プレートラック"
+  },
+  "car wheel": {
+    "name": "car wheel",
+    "tr": "車のホイール"
+  },
+  "cuirass": {
+    "name": "cuirass",
+    "tr": "鎧"
+  },
+  "projector": {
+    "name": "projector",
+    "tr": "プロジェクター"
+  },
+  "mashed potato": {
+    "name": "mashed potato",
+    "tr": "マッシュポテト"
+  },
+  "espresso maker": {
+    "name": "espresso maker",
+    "tr": "エスプレッソメーカー"
+  },
+  "pizza": {
+    "name": "pizza",
+    "tr": "ピザ"
+  },
+  "tricycle": {
+    "name": "tricycle",
+    "tr": "トライシクル"
+  },
+  "steam locomotive": {
+    "name": "steam locomotive",
+    "tr": "蒸気機関車"
+  },
+  "miniskirt": {
+    "name": "miniskirt",
+    "tr": "ミニスカート"
+  },
+  "hoopskirt": {
+    "name": "hoopskirt",
+    "tr": "hoopskirt"
+  },
+  "baseball": {
+    "name": "baseball",
+    "tr": "野球"
+  },
+  "volcano": {
+    "name": "volcano",
+    "tr": "火山"
+  },
+  "dishwasher": {
+    "name": "dishwasher",
+    "tr": "食器洗い機"
+  },
+  "piggy bank": {
+    "name": "piggy bank",
+    "tr": "貯金箱"
+  },
+  "orange": {
+    "name": "orange",
+    "tr": "オレンジ"
+  },
+  "garbage truck": {
+    "name": "garbage truck",
+    "tr": "ごみ収集車"
+  },
+  "espresso": {
+    "name": "espresso",
+    "tr": "表現"
+  },
+  "corn": {
+    "name": "corn",
+    "tr": "コーン"
+  },
+  "iron": {
+    "name": "iron",
+    "tr": "鉄"
+  },
+  "honeycomb": {
+    "name": "honeycomb",
+    "tr": "蜂の巣"
+  },
+  "trombone": {
+    "name": "trombone",
+    "tr": "トロンボーン"
+  },
+  "apron": {
+    "name": "apron",
+    "tr": "エプロン"
+  },
+  "ski mask": {
+    "name": "ski mask",
+    "tr": "目出し帽"
+  },
+  "tree": {
+    "name": "tree",
+    "tr": "木"
+  },
+  "joystick": {
+    "name": "joystick",
+    "tr": "ジョイスティック"
+  },
+  "flashlight": {
+    "name": "flashlight",
+    "tr": "懐中電灯"
+  },
+  "punching bag": {
+    "name": "punching bag",
+    "tr": "サンドバッグ"
+  },
+  "mask": {
+    "name": "mask",
+    "tr": "マスク"
+  },
+  "ladybug": {
+    "name": "ladybug",
+    "tr": "天道虫"
+  },
+  "burrito": {
+    "name": "burrito",
+    "tr": "ブリトー"
+  },
+  "chain": {
+    "name": "chain",
+    "tr": "鎖"
+  },
+  "dumbbell": {
+    "name": "dumbbell",
+    "tr": "ダンベル"
+  },
+  "lotion": {
+    "name": "lotion",
+    "tr": "ローション"
+  },
+  "wallet": {
+    "name": "wallet",
+    "tr": "財布"
+  },
+  "lens cap": {
+    "name": "lens cap",
+    "tr": "レンズヘッド"
+  },
+  "medicine chest": {
+    "name": "medicine chest",
+    "tr": "薬箱"
+  },
+  "planetarium": {
+    "name": "planetarium",
+    "tr": "プラネタリウム"
+  },
+  "artichoke": {
+    "name": "artichoke",
+    "tr": "アーティチョーク"
+  },
+  "snowmobile": {
+    "name": "snowmobile",
+    "tr": "スノーモービル"
+  },
+  "guacamole": {
+    "name": "guacamole",
+    "tr": "グアカモーレ"
+  },
+  "odometer": {
+    "name": "odometer",
+    "tr": "オドメーター"
+  },
+  "screwdriver": {
+    "name": "screwdriver",
+    "tr": "ドライバー"
+  },
+  "mortarboard": {
+    "name": "mortarboard",
+    "tr": "モルタルボード"
+  },
+  "cassette player": {
+    "name": "cassette player",
+    "tr": "カセット・プレーヤー"
+  },
+  "paintbrush": {
+    "name": "paintbrush",
+    "tr": "絵筆"
+  },
+  "birdhouse": {
+    "name": "birdhouse",
+    "tr": "巣箱"
+  },
+  "car": {
+    "name": "car",
+    "tr": "車"
+  },
+  "radio": {
+    "name": "radio",
+    "tr": "無線"
+  },
+  "hat": {
+    "name": "hat",
+    "tr": "帽子"
+  },
+  "safety pin": {
+    "name": "safety pin",
+    "tr": "安全ピン"
+  },
+  "fountain": {
+    "name": "fountain",
+    "tr": "噴水"
+  },
+  "tiger": {
+    "name": "tiger",
+    "tr": "虎"
+  },
+  "pinwheel": {
+    "name": "pinwheel",
+    "tr": "風車"
+  },
+  "restaurant": {
+    "name": "restaurant",
+    "tr": "レストラン"
+  },
+  "bib": {
+    "name": "bib",
+    "tr": "よだれかけ"
+  },
+  "display": {
+    "name": "display",
+    "tr": "表示"
+  },
+  "cabinet": {
+    "name": "cabinet",
+    "tr": "キャビネット"
+  },
+  "sundial": {
+    "name": "sundial",
+    "tr": "日時計"
+  },
+  "tow truck": {
+    "name": "tow truck",
+    "tr": "レッカー車"
+  },
+  "stage": {
+    "name": "stage",
+    "tr": "ステージ"
+  },
+  "whistle": {
+    "name": "whistle",
+    "tr": "ホイッスル"
+  },
+  "mobile home": {
+    "name": "mobile home",
+    "tr": "移動住宅"
+  },
+  "scorpion": {
+    "name": "scorpion",
+    "tr": "蠍"
+  },
+  "fish": {
+    "name": "fish",
+    "tr": "魚"
+  },
+  "barometer": {
+    "name": "barometer",
+    "tr": "バロメーター"
+  },
+  "bucket": {
+    "name": "bucket",
+    "tr": "バケツ"
+  },
+  "jigsaw puzzle": {
+    "name": "jigsaw puzzle",
+    "tr": "ジグソーパズル"
+  },
+  "key": {
+    "name": "key",
+    "tr": "キー"
+  },
+  "pick": {
+    "name": "pick",
+    "tr": "ピック"
+  },
+  "band aid": {
+    "name": "band aid",
+    "tr": "バンドエイド"
+  },
+  "power drill": {
+    "name": "power drill",
+    "tr": "電動ドリル"
+  },
+  "speedboat": {
+    "name": "speedboat",
+    "tr": "スピードボート"
+  },
+  "scissors": {
+    "name": "scissors",
+    "tr": "はさみ"
+  },
+  "lemon": {
+    "name": "lemon",
+    "tr": "レモン"
+  },
+  "mushroom": {
+    "name": "mushroom",
+    "tr": "キノコ"
+  },
+  "french horn": {
+    "name": "french horn",
+    "tr": "フレンチホルン"
+  },
+  "bubble": {
+    "name": "bubble",
+    "tr": "バブル"
+  },
+  "pineapple": {
+    "name": "pineapple",
+    "tr": "パイナップル"
+  },
+  "wool": {
+    "name": "wool",
+    "tr": "ウール"
+  },
+  "shopping cart": {
+    "name": "shopping cart",
+    "tr": "ショッピングカート"
+  },
+  "gong": {
+    "name": "gong",
+    "tr": "ゴング"
+  },
+  "tractor": {
+    "name": "tractor",
+    "tr": "トラクター"
+  },
+  "pajama": {
+    "name": "pajama",
+    "tr": "パジャマ"
+  },
+  "scarf": {
+    "name": "scarf",
+    "tr": "スカーフ"
+  },
+  "cd player": {
+    "name": "cd player",
+    "tr": "CDプレーヤー"
+  },
+  "marimba": {
+    "name": "marimba",
+    "tr": "マリンバ"
+  },
+  "crib": {
+    "name": "crib",
+    "tr": "ベビーベッド"
+  },
+  "airliner": {
+    "name": "airliner",
+    "tr": "旅客機"
+  },
+  "cat": {
+    "name": "cat",
+    "tr": "ネコ"
+  },
+  "ski": {
+    "name": "ski",
+    "tr": "スキー"
+  },
+  "laptop": {
+    "name": "laptop",
+    "tr": "ノートパソコン"
+  },
+  "jack o lantern": {
+    "name": "jack o lantern",
+    "tr": "ジャックランタン"
+  },
+  "bread": {
+    "name": "bread",
+    "tr": "パン"
+  },
+  "frying pan": {
+    "name": "frying pan",
+    "tr": "フライパン"
+  },
+  "abacus": {
+    "name": "abacus",
+    "tr": "ソロバン"
+  },
+  "butcher shop": {
+    "name": "butcher shop",
+    "tr": "精肉店"
+  },
+  "fries": {
+    "name": "fries",
+    "tr": "フライドポテト"
+  },
+  "streetcar": {
+    "name": "streetcar",
+    "tr": "ストリートカー"
+  },
+  "parking meter": {
+    "name": "parking meter",
+    "tr": "パーキングメーター"
+  },
+  "shower cap": {
+    "name": "shower cap",
+    "tr": "シャワーヘッド"
+  },
+  "paper towel": {
+    "name": "paper towel",
+    "tr": "ペーパータオル"
+  },
+  "oil filter": {
+    "name": "oil filter",
+    "tr": "オイルフィルター"
+  },
+  "pot": {
+    "name": "pot",
+    "tr": "缶"
+  },
+  "beer": {
+    "name": "beer",
+    "tr": "ビール"
+  },
+  "greenhouse": {
+    "name": "greenhouse",
+    "tr": "温室"
+  },
+  "strainer": {
+    "name": "strainer",
+    "tr": "濾過器"
+  },
+  "bee": {
+    "name": "bee",
+    "tr": "蜂"
+  },
+  "vase": {
+    "name": "vase",
+    "tr": "花瓶"
+  },
+  "forklift": {
+    "name": "forklift",
+    "tr": "フォークリフト"
+  },
+  "guitar": {
+    "name": "guitar",
+    "tr": "ギター"
+  },
+  "pomegranate": {
+    "name": "pomegranate",
+    "tr": "ザクロ"
+  },
+  "backpack": {
+    "name": "backpack",
+    "tr": "バックパック"
+  },
+  "donut": {
+    "name": "donut",
+    "tr": "ドーナツ"
+  },
+  "crane": {
+    "name": "crane",
+    "tr": "クレーン"
+  },
+  "prayer rug": {
+    "name": "prayer rug",
+    "tr": "祈りの敷物"
+  },
+  "dungeness crab": {
+    "name": "dungeness crab",
+    "tr": "ダンジネスのカニ"
+  },
+  "corkscrew": {
+    "name": "corkscrew",
+    "tr": "コークスクリュー"
+  },
+  "snorkel": {
+    "name": "snorkel",
+    "tr": "スノーケル"
+  },
+  "cauliflower": {
+    "name": "cauliflower",
+    "tr": "カリフラワー"
+  },
+  "sarong": {
+    "name": "sarong",
+    "tr": "サロン"
+  },
+  "pencil sharpener": {
+    "name": "pencil sharpener",
+    "tr": "鉛筆削り"
+  },
+  "sax": {
+    "name": "sax",
+    "tr": "サックス"
+  },
+  "ladle": {
+    "name": "ladle",
+    "tr": "ひしゃく"
+  },
+  "pants": {
+    "name": "pants",
+    "tr": "パンツ"
+  },
+  "slot": {
+    "name": "slot",
+    "tr": "スロット"
+  },
+  "house": {
+    "name": "house",
+    "tr": "家"
+  },
+  "parachute": {
+    "name": "parachute",
+    "tr": "パラシュート"
+  },
+  "doormat": {
+    "name": "doormat",
+    "tr": "ドアマット"
+  },
+  "window screen": {
+    "name": "window screen",
+    "tr": "ウインドウスクリーン"
+  },
+  "bird": {
+    "name": "bird",
+    "tr": "鳥"
+  },
+  "balance beam": {
+    "name": "balance beam",
+    "tr": "バランスビーム"
+  },
+  "coil": {
+    "name": "coil",
+    "tr": "コイル"
+  },
+  "giant panda": {
+    "name": "giant panda",
+    "tr": "ジャイアントパンダ"
+  },
+  "pillow": {
+    "name": "pillow",
+    "tr": "枕"
+  },
+  "disk brake": {
+    "name": "disk brake",
+    "tr": "ディスクブレーキ"
+  },
+  "pirate": {
+    "name": "pirate",
+    "tr": "海賊"
+  },
+  "aircraft carrier": {
+    "name": "aircraft carrier",
+    "tr": "空母"
+  },
+  "knee pad": {
+    "name": "knee pad",
+    "tr": "膝パッド"
+  },
+  "car mirror": {
+    "name": "car mirror",
+    "tr": "車のミラー"
+  },
+  "trash can": {
+    "name": "trash can",
+    "tr": "ごみ箱"
+  },
+  "hair slide": {
+    "name": "hair slide",
+    "tr": "髪のスライド"
+  },
+  "pen": {
+    "name": "pen",
+    "tr": "ペン"
+  },
+  "door": {
+    "name": "door",
+    "tr": "ドア"
+  },
+  "safe": {
+    "name": "safe",
+    "tr": "安全"
+  },
+  "cassette": {
+    "name": "cassette",
+    "tr": "カセット"
+  },
+  "swing": {
+    "name": "swing",
+    "tr": "スイング"
+  },
+  "plate": {
+    "name": "plate",
+    "tr": "プレート"
+  },
+  "banana": {
+    "name": "banana",
+    "tr": "バナナ"
+  },
+  "crash helmet": {
+    "name": "crash helmet",
+    "tr": "ヘルメット"
+  },
+  "drum": {
+    "name": "drum",
+    "tr": "ドラム"
+  },
+  "face powder": {
+    "name": "face powder",
+    "tr": "フェースパウダー"
+  },
+  "diaper": {
+    "name": "diaper",
+    "tr": "おむつ"
+  },
+  "poncho": {
+    "name": "poncho",
+    "tr": "ポンチョ"
+  },
+  "quilt": {
+    "name": "quilt",
+    "tr": "キルト"
+  },
+  "pitcher": {
+    "name": "pitcher",
+    "tr": "ピッチャー"
+  },
+  "toyshop": {
+    "name": "toyshop",
+    "tr": "玩具屋"
+  },
+  "coat": {
+    "name": "coat",
+    "tr": "コート"
+  },
+  "binoculars": {
+    "name": "binoculars",
+    "tr": "双眼鏡"
+  },
+  "acorn": {
+    "name": "acorn",
+    "tr": "団栗"
+  },
+  "swimming trunks": {
+    "name": "swimming trunks",
+    "tr": "海パン"
+  },
+  "rotisserie": {
+    "name": "rotisserie",
+    "tr": "ロティサリー"
+  },
+  "abaya": {
+    "name": "abaya",
+    "tr": "アバヤ"
+  },
+  "ballplayer": {
+    "name": "ballplayer",
+    "tr": "野球選手"
+  },
+  "folding chair": {
+    "name": "folding chair",
+    "tr": "折り畳みいす"
+  },
+  "water bottle": {
+    "name": "water bottle",
+    "tr": "水筒"
+  },
+  "taco": {
+    "name": "taco",
+    "tr": "タコス"
+  },
+  "starfish": {
+    "name": "starfish",
+    "tr": "海星"
+  },
+  "spider web": {
+    "name": "spider web",
+    "tr": "蜘蛛の巣"
+  },
+  "cash machine": {
+    "name": "cash machine",
+    "tr": "キャッシュマシン"
+  },
+  "hard disc": {
+    "name": "hard disc",
+    "tr": "ハードディスク"
+  },
+  "manhole cover": {
+    "name": "manhole cover",
+    "tr": "マンホールの蓋"
+  },
+  "hamper": {
+    "name": "hamper",
+    "tr": "妨げます"
+  },
+  "letter opener": {
+    "name": "letter opener",
+    "tr": "レターオープナー"
+  },
+  "oxygen mask": {
+    "name": "oxygen mask",
+    "tr": "酸素マスク"
+  },
+  "cradle": {
+    "name": "cradle",
+    "tr": "発祥地"
+  },
+  "newspaper": {
+    "name": "newspaper",
+    "tr": "新聞"
+  },
+  "groom": {
+    "name": "groom",
+    "tr": "新郎"
+  },
+  "radiator": {
+    "name": "radiator",
+    "tr": "ラジエーター"
+  },
+  "plastic bag": {
+    "name": "plastic bag",
+    "tr": "ビニール袋"
+  },
+  "traffic light": {
+    "name": "traffic light",
+    "tr": "トラフィックライト"
+  },
+  "bell pepper": {
+    "name": "bell pepper",
+    "tr": "ピーマン"
+  },
+  "cliff": {
+    "name": "cliff",
+    "tr": "崖"
+  },
+  "piano": {
+    "name": "piano",
+    "tr": "計画"
+  },
+  "gas pump": {
+    "name": "gas pump",
+    "tr": "ガスポンプ"
+  },
+  "sock": {
+    "name": "sock",
+    "tr": "靴下"
+  },
+  "swab": {
+    "name": "swab",
+    "tr": "スワッブ"
+  },
+  "magnetic compass": {
+    "name": "magnetic compass",
+    "tr": "方位磁針"
+  },
+  "headphones": {
+    "name": "headphones",
+    "tr": "ヘッドフォン"
+  },
+  "worm fence": {
+    "name": "worm fence",
+    "tr": "ワームフェンス"
+  },
+  "organ": {
+    "name": "organ",
+    "tr": "器官"
+  },
+  "cocktail shaker": {
+    "name": "cocktail shaker",
+    "tr": "カクテルシェーカー"
+  },
+  "snail": {
+    "name": "snail",
+    "tr": "巻き貝"
+  },
+  "slug": {
+    "name": "slug",
+    "tr": "ナメクジ"
+  },
+  "hook": {
+    "name": "hook",
+    "tr": "フック"
+  },
+  "shoe": {
+    "name": "shoe",
+    "tr": "靴"
+  },
+  "mosque": {
+    "name": "mosque",
+    "tr": "モスク"
+  },
+  "toilet": {
+    "name": "toilet",
+    "tr": "トイレ"
+  },
+  "vacuum": {
+    "name": "vacuum",
+    "tr": "真空"
+  },
+  "harp": {
+    "name": "harp",
+    "tr": "ハープ"
+  },
+  "scuba diver": {
+    "name": "scuba diver",
+    "tr": "スキューバダイバー"
+  },
+  "wine": {
+    "name": "wine",
+    "tr": "ワイン"
+  },
+  "puck": {
+    "name": "puck",
+    "tr": "パック"
+  },
+  "chiffonier": {
+    "name": "chiffonier",
+    "tr": "棚"
+  },
+  "accordion": {
+    "name": "accordion",
+    "tr": "アコーディオン"
+  },
+  "remote control": {
+    "name": "remote control",
+    "tr": "リモコン"
+  },
+  "printer": {
+    "name": "printer",
+    "tr": "プリンタ"
+  },
+  "violin": {
+    "name": "violin",
+    "tr": "バイオリン"
+  },
+  "magnifying glass": {
+    "name": "magnifying glass",
+    "tr": "虫眼鏡"
+  },
+  "sofa": {
+    "name": "sofa",
+    "tr": "ソファー"
+  },
+  "sunscreen": {
+    "name": "sunscreen",
+    "tr": "日焼け止め"
+  },
+  "sandbar": {
+    "name": "sandbar",
+    "tr": "砂州"
+  },
+  "steel arch bridge": {
+    "name": "steel arch bridge",
+    "tr": "鋼アーチ橋"
+  },
+  "spatula": {
+    "name": "spatula",
+    "tr": "ヘラ"
+  },
+  "keyboard": {
+    "name": "keyboard",
+    "tr": "キーボード"
+  },
+  "switch": {
+    "name": "switch",
+    "tr": "スイッチ"
+  },
+  "rugby ball": {
+    "name": "rugby ball",
+    "tr": "ラグビーボール"
+  }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <meta charset="utf-8" />
+    <title>本当に「うんこなう」なのか機械学習を使って判定するWebサイト</title>
+    <meta
+      name="description"
+      content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
+    />
+    <meta name="viewport" , content="width=device-width,initial-scale=1.0," />
+    <script defer src="./index.js"></script>
+  </head>
+  <style>
+    .loading,
+    .desc,
+    .end {
+      display: none;
+    }
+    video {
+      width: 100%;
+    }
+  </style>
+  <body>
+    <h1>本当に「うんこなう」なのか機械学習を使って判定するWebサイト</h1>
+    <button class="start">カメラをONにして始める</button>
+    <video
+      class="camera__element camera__element--js"
+      autoplay
+      playsinline
+    ></video>
+    <p class="loading">loading...</p>
+    <div class="desc">
+      <p>トイレットペーパーをカメラにうつしてください</p>
+      <p>それは多分<span class="trtext"></span>じゃないですか？</p>
+
+      <div class="end">
+        <p>トイレットペーパーがあるということは、あなたはトイレにいますね！</p>
+        <p>
+          本当に🚽にいるという証明を、このボタンから「うんこなう」とつぶやいてもらっていいですよ。
+        </p>
+        <button>つぶやく</button>
+        <p>そして事が済んだらちゃんと手を洗いましょう。</p>
+      </div>
+    </div>
+    <p>このアプリの技術解説などはこちら</p>
+    <p>つくった人 @nabettu</p>
+  </body>
+</html>

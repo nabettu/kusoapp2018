@@ -1,0 +1,38 @@
+{
+  "name": "201807",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html --open --no-source-maps",
+    "remove": "rm ../201812/*",
+    "build": "npm run remove | parcel build index.html --out-dir ../201812 --no-source-maps --public-url /syusaku/201812/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.104",
+    "@types/stats.js": "^0.17.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "browserify": "^16.0.0",
+    "browserify-shim": "^3.8.14",
+    "concurrently": "^3.5.1",
+    "lodash": "^4.17.5",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.9.7",
+    "stats.js": "^0.17.0",
+    "tsify": "^3.0.4",
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.1",
+    "uglify-js": "^3.3.10",
+    "watchify": "^3.10.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-converter": "0.2.1",
+    "@tensorflow/tfjs-core": "0.9.0",
+    "babel-polyfill": "^6.26.0"
+  }
+}
