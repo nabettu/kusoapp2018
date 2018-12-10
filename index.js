@@ -6,7 +6,6 @@ import { camera } from "./src/camera";
 import tr from "./src/tr.json";
 
 const VIDEO_PIXELS = 224;
-
 const emojiScavengerMobileNet = new MobileNet();
 const startBtn = document.getElementsByClassName("start")[0];
 const loading = document.getElementsByClassName("loading")[0];
@@ -32,7 +31,7 @@ startBtn.addEventListener("click", () => {
       camera.setupVideoDimensions(value[0], value[1]);
     })
   ]).then(e => {
-    console.log(e);
+    console.log("warmup end");
     loading.style.display = "none";
     desc.style.display = "block";
     predict();
@@ -58,20 +57,18 @@ async function predict() {
     return emojiScavengerMobileNet.predict(pixelsCropped);
   });
 
-  // This call retrieves the topK matches from our MobileNet for the
-  // provided image data.
+  //配列で候補が10個返ってくる
   const topK = await emojiScavengerMobileNet.getTopKClasses(result, 10);
 
-  // Match the top 2 matches against our current active emoji.
   checkEmojiMatch(topK[0].label);
   requestAnimationFrame(() => predict());
 }
 
 function checkEmojiMatch(emojiNameTop1) {
-  // console.log(emojiNameTop1, emojiNameTop2);
+  // console.log(emojiNameTop1);
 
   if (tr[emojiNameTop1]) {
-    console.log(tr[emojiNameTop1]);
+    console.log(tr[emojiNameTop1].tr);
     trtext.innerHTML = tr[emojiNameTop1].tr;
   }
   if (isDebug) {
