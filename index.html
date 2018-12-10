@@ -2,15 +2,62 @@
 <html lang="jp">
   <head>
     <meta charset="utf-8" />
-    <title>本当に「うんこなう」なのか機械学習を使って判定するWebサイト</title>
+    <title>真の「うんこなう」判定機</title>
     <meta
       name="description"
       content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
     />
-    <meta name="viewport" , content="width=device-width,initial-scale=1.0," />
+    <meta name="viewport" , content="width=device-width,initial-scale=1" />
+    <meta data-n-head="true" http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta property="og:url" content="https://kusoapp2018.netlify.com/ogp.png" />
+    <meta
+      property="og:image"
+      content="https://kusoapp2018.netlify.com/ogp.png"
+    />
+    <meta
+      property="twitter:image"
+      content="hhttps://kusoapp2018.netlify.com/ogp.png"
+    />
+    <meta name="author" content="nabettu" />
+    <meta name="og:type" property="og:type" content="website" />
+    <meta
+      name="og:title"
+      property="og:title"
+      content="真の「うんこなう」判定機"
+    />
+    <meta
+      name="og:description"
+      property="og:description"
+      content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
+    />
+    <meta property="og:title" content="真の「うんこなう」判定機" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:site_name"
+      content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
+    />
+    <meta
+      property="og:description"
+      content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="真の「うんこなう」判定機" />
+    <meta
+      name="twitter:description"
+      content="本当に「うんこなう」なのか機械学習を使って判定するWebサイト"
+    />
+    <meta itemprop="image" content="https://kusoapp2018.netlify.com/ogp.png" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css"
+    />
     <script defer src="./index.js"></script>
   </head>
   <style>
+    html {
+      font-size: 16px;
+    }
     .loading,
     .desc,
     .end {
@@ -18,31 +65,67 @@
     }
     video {
       width: 100%;
+      max-height: 60vh;
+      background-color: #ddd;
+    }
+    .container {
+      max-width: 100%;
+      padding: 30px 10px;
+      box-sizing: border-box;
+    }
+    .title {
+      font-size: 1.5rem;
+    }
+    .button {
+      margin: 20px auto;
+      display: block;
     }
   </style>
   <body>
-    <h1>本当に「うんこなう」なのか機械学習を使って判定するWebサイト</h1>
-    <button class="start">カメラをONにして始める</button>
-    <video
-      class="camera__element camera__element--js"
-      autoplay
-      playsinline
-    ></video>
-    <p class="loading">loading...</p>
-    <div class="desc">
-      <p>トイレットペーパーをカメラにうつしてください</p>
-      <p>それは多分<span class="trtext"></span>じゃないですか？</p>
+    <div class="container">
+      <h1 class="title">真の「うんこなう」判定機</h1>
+      <p>本Webサイトは端末のカメラを使います。</p>
+      <p>
+        周りの状況を機械学習データを使って判定し、本当にトイレにいるのかどうかを確認します。
+      </p>
+      <p>そのため、周りに人がいないことを確認してから始めてください。</p>
+      <p>
+        また、ブラウザ上で判定しているため、外部にデータを送信は行っていません。
+      </p>
+      <button class="start button is-primary">カメラをONにして始める</button>
+      <video
+        class="camera__element camera__element--js"
+        autoplay
+        playsinline
+      ></video>
+      <p class="loading">loading...（カメラ設定と学習データの読み込み中）</p>
+      <div class="desc">
+        <p><b>トイレットペーパー</b>をカメラにうつしてください</p>
+        <p>それは多分<span class="trtext"></span>じゃないですか？</p>
 
-      <div class="end">
-        <p>トイレットペーパーがあるということは、あなたはトイレにいますね！</p>
-        <p>
-          本当に🚽にいるという証明を、このボタンから「うんこなう」とつぶやいてもらっていいですよ。
-        </p>
-        <button>つぶやく</button>
-        <p>そして事が済んだらちゃんと手を洗いましょう。</p>
+        <div class="end">
+          <p>
+            トイレットペーパーがあるということは、あなたはトイレにいますね！
+          </p>
+          <p>
+            本当に🚽にいるという証明を、このボタンから「うんこなう」とつぶやいてもらっていいですよ。
+          </p>
+          <button class="unkoBtn button is-info">
+            「うんこなう」とつぶやく
+          </button>
+          <p>そして事が済んだらちゃんと手を洗いましょう。</p>
+        </div>
       </div>
     </div>
-    <p>このアプリの技術解説などはこちら</p>
-    <p>つくった人 @nabettu</p>
+    <footer class="footer">
+      <p>このアプリの技術解説などは <a href="" target="_blank">こちら</a></p>
+      <p>
+        つくった人
+        <a href="https://twitter.com/nabettu" target="_blank">@nabettu </a>
+      </p>
+      <button class="tweetBtn button is-info">
+        このサイトについてつぶやく
+      </button>
+    </footer>
   </body>
 </html>

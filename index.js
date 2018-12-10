@@ -1,8 +1,10 @@
 import "babel-polyfill";
 import * as tfc from "@tensorflow/tfjs-core";
+import qs from "querystring";
 import { MobileNet } from "./src/mobilenet";
 import { camera } from "./src/camera";
 import tr from "./src/tr.json";
+
 const VIDEO_PIXELS = 224;
 
 const emojiScavengerMobileNet = new MobileNet();
@@ -11,6 +13,8 @@ const loading = document.getElementsByClassName("loading")[0];
 const desc = document.getElementsByClassName("desc")[0];
 const trtext = document.getElementsByClassName("trtext")[0];
 const end = document.getElementsByClassName("end")[0];
+const tweetBtn = document.getElementsByClassName("tweetBtn")[0];
+const unkoBtn = document.getElementsByClassName("unkoBtn")[0];
 const isDebug = Boolean(location.hash == "#debug");
 
 // console.log(emojiScavengerMobileNet);
@@ -18,6 +22,7 @@ startBtn.addEventListener("click", () => {
   startBtn.style.display = "none";
   loading.style.display = "block";
   Promise.all([
+    //mobilenet warmup
     emojiScavengerMobileNet.load().then(() => {
       emojiScavengerMobileNet.predict(
         tfc.zeros([VIDEO_PIXELS, VIDEO_PIXELS, 3])
@@ -33,12 +38,9 @@ startBtn.addEventListener("click", () => {
     predict();
   });
 });
-//warmup
 
 let isStop = false;
 async function predict() {
-  // Only do predictions if the game is running, ensures performant view
-  // transitions and saves battery life when the game isn't in running mode.
   if (isStop) {
     return;
   }
@@ -79,4 +81,20 @@ function checkEmojiMatch(emojiNameTop1) {
     isStop = true;
     end.style.display = "block";
   }
+}
+
+unkoBtn.addEventListener("click", () => {
+  tweet(true);
+});
+tweetBtn.addEventListener("click", () => {
+  tweet(false);
+});
+
+function tweet(isUnko) {
+  let twContent = {
+    url: "https://kusoapp2018.netlify.com",
+    text: isUnko ? "うんこなう #真のうんこなう判定機" : "#真のうんこなう判定機"
+  };
+  const twurl = "https://twitter.com/share?" + qs.stringify(twContent);
+  window.open(twurl);
 }

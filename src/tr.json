@@ -565,7 +565,7 @@
   },
   "carton": {
     "name": "carton",
-    "tr": "カートン"
+    "tr": "ダンボール箱"
   },
   "baby bottle": {
     "name": "baby bottle",
@@ -657,7 +657,7 @@
   },
   "pop bottle": {
     "name": "pop bottle",
-    "tr": "ポップボトル"
+    "tr": "ペットボトル"
   },
   "candle": {
     "name": "candle",
